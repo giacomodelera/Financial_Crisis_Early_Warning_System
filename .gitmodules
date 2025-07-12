@@ -1,0 +1,3 @@
+[submodule "Fintech_Anomaly_Detection"]
+	path = Fintech_Anomaly_Detection
+	url = https://github.com/mouadhltifi/Fintech_Anomaly_Detection.git
