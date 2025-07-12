@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive Financial Crisis Early Warning System with two main components: an analytical pipeline (Jupyter notebooks) for model development and a real-time monitoring dashboard.
 
-Please refer to the linked repo for all material.
+For practical reasons the main repo is linked at "Fintech_Anomaly_Detection".
 
 ## Project Overview
 
