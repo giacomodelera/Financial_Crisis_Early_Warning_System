@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive Financial Crisis Early Warning System with two main components: an analytical pipeline (Jupyter notebooks) for model development and a real-time monitoring dashboard.
 
+Please refer to the linked repo for all material.
+
 ## Project Overview
 
 Financial markets typically generate positive returns over the long term, but periodically experience crisis events. This project applies data science and machine learning techniques to develop an early warning system that can detect potential financial crises 2-4 weeks before they fully materialize.
